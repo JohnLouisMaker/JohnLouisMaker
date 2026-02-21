@@ -21,10 +21,6 @@ Desenvolvedor Web focado em React, TypeScript e Python. Estudante de Análise e 
 ![Git](https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white)
 ![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white)
 
----
-
-# 📊 Estatísticas do GitHub:
-![](https://github-readme-stats.vercel.app/api?username=JohnLouisMaker&theme=cobalt&hide_border=true&include_all_commits=false&count_private=false)<br/>
 ![](https://nirzak-streak-stats.vercel.app/?user=JohnLouisMaker&theme=cobalt&hide_border=true)<br/>
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=JohnLouisMaker&theme=cobalt&hide_border=true&include_all_commits=false&count_private=false&layout=compact)
 
