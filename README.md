@@ -1,19 +1,34 @@
-<h1 align="center">Salve, Eu sou João Luis/h1>
-<p align="center">
-  💻 Desenvolvedor Front-End FullStack
-</p>
+# 💫 Sobre Mim:
+Desenvolvedor Web focado em React, TypeScript e Python. Estudante de Análise e Desenvolvimento de Sistemas (Unifametro) e formado pelo programa Geração Tech Full Stack (IEL / Digital College).
 
-## Troféus Do GitHub
-<p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=JohnLouisMaker&theme=radical&no-frame=false&no-bg=false&margin-w=4&title_color=cyan" />
-</p>
+---
 
-## Visitantes
-<p align="center">
-  <img src="https://visitcount.itsvg.in/api?id=JohnLouisMaker&icon=0&color=0" />
-</p>
+## 🌐 Redes Sociais:
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/joão-luis-75b18a333)  
+[![Email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:joaoluisdev9@gmail.com)
 
-## Contribuições
-<p align="center">
-  <img src="https://github-contributor-stats.vercel.app/api?username=JohnLouisMaker&limit=5&theme=radical&combine_all_yearly_contributions=true" />
-</p>
+---
+
+# 💻 Tech Stack:
+![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white)
+![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white)
+![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E)
+![TypeScript](https://img.shields.io/badge/typescript-%23007ACC.svg?style=for-the-badge&logo=typescript&logoColor=white)
+![Vercel](https://img.shields.io/badge/vercel-%23000000.svg?style=for-the-badge&logo=vercel&logoColor=white)
+![FastAPI](https://img.shields.io/badge/FastAPI-005571?style=for-the-badge&logo=fastapi)
+![React](https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB)
+![Postgres](https://img.shields.io/badge/postgres-%23316192.svg?style=for-the-badge&logo=postgresql&logoColor=white)
+![SQLite](https://img.shields.io/badge/sqlite-%2307405e.svg?style=for-the-badge&logo=sqlite&logoColor=white)
+![Git](https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white)
+![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white)
+
+---
+
+# 📊 Estatísticas do GitHub:
+![](https://github-readme-stats.vercel.app/api?username=JohnLouisMaker&theme=cobalt&hide_border=true&include_all_commits=false&count_private=false)<br/>
+![](https://nirzak-streak-stats.vercel.app/?user=JohnLouisMaker&theme=cobalt&hide_border=true)<br/>
+![](https://github-readme-stats.vercel.app/api/top-langs/?username=JohnLouisMaker&theme=cobalt&hide_border=true&include_all_commits=false&count_private=false&layout=compact)
+
+---
+
+[![](https://visitcount.itsvg.in/api?id=JohnLouisMaker&icon=0&color=0)](https://visitcount.itsvg.in)
