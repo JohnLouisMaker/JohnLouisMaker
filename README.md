@@ -1,16 +1,19 @@
-## Hi there 👋
+<h1 align="center">Salve, Eu sou João Luis/h1>
+<p align="center">
+  💻 Desenvolvedor Front-End FullStack
+</p>
 
-<!--
-**JohnLouisMaker/JohnLouisMaker** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+## Troféus Do GitHub
+<p align="center">
+  <img src="https://github-profile-trophy.vercel.app/?username=JohnLouisMaker&theme=radical&no-frame=false&no-bg=false&margin-w=4&title_color=cyan" />
+</p>
 
-Here are some ideas to get you started:
+## Visitantes
+<p align="center">
+  <img src="https://visitcount.itsvg.in/api?id=JohnLouisMaker&icon=0&color=0" />
+</p>
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## Contribuições
+<p align="center">
+  <img src="https://github-contributor-stats.vercel.app/api?username=JohnLouisMaker&limit=5&theme=radical&combine_all_yearly_contributions=true" />
+</p>
