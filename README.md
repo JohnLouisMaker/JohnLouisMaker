@@ -1,4 +1,4 @@
-# 💫 Sobre Mim:
+# 💫 João Luis 
 Desenvolvedor Web focado em React, TypeScript e Python. Estudante de Análise e Desenvolvimento de Sistemas (Unifametro) e formado pelo programa Geração Tech Full Stack (IEL / Digital College).
 
 ---
