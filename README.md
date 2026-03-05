@@ -1,29 +1,67 @@
-# 💫 João Luis 
-Desenvolvedor Web focado em React, TypeScript e Python. Estudante de Análise e Desenvolvimento de Sistemas (Unifametro) e formado pelo programa Geração Tech Full Stack (IEL / Digital College).
+cat << 'EOF' > README.md
+# 💫 DEV João Luis  
+
+<p align="center">
+  <img 
+    src="https://readme-typing-svg.herokuapp.com/?color=00bfbf&size=35&center=true&vCenter=true&width=1000&lines=DEV+João+Luis;Desenvolvedor+Web;Cuida!!+" 
+  />
+</p>
 
 ---
 
-## 🌐 Redes Sociais:
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/joão-luis-75b18a333)  
-[![Email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:joaoluisdev9@gmail.com)
+## Sobre mim
+
+<img align="left" width="280" src="https://media0.giphy.com/media/v1.Y2lkPTc5MGI3NjExazhqZmowcGR4MHc4ZjYzdjJ6dmF2NGw0czN1a3d3cHhiZGlxOTA2cCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/bGgsc5mWoryfgKBx1u/giphy.gif" />
+
+### Olá, eu sou o João Luis!
+
+**Desenvolvedor Web** — React, TypeScript e Python  
+
+Estudante de **Análise e Desenvolvimento de Sistemas (Unifametro)**  
+Formado pelo programa **Geração Tech Full Stack**
+
+<br clear="left"/>
 
 ---
 
-# 💻 Tech Stack:
-![React](https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB)
-![TypeScript](https://img.shields.io/badge/typescript-%23007ACC.svg?style=for-the-badge&logo=typescript&logoColor=white)
-![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E)
-![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)
-![FastAPI](https://img.shields.io/badge/FastAPI-005571?style=for-the-badge&logo=fastapi)
-![Postgres](https://img.shields.io/badge/postgres-%23316192.svg?style=for-the-badge&logo=postgresql&logoColor=white)
-![SQLite](https://img.shields.io/badge/sqlite-%2307405e.svg?style=for-the-badge&logo=sqlite&logoColor=white)
-![Vercel](https://img.shields.io/badge/vercel-%23000000.svg?style=for-the-badge&logo=vercel&logoColor=white)
-![Git](https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white)
-![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white)
+## Stack / Skills
 
-![](https://nirzak-streak-stats.vercel.app/?user=JohnLouisMaker&theme=cobalt&hide_border=true)<br/>
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=JohnLouisMaker&theme=cobalt&hide_border=true&include_all_commits=false&count_private=false&layout=compact)
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=react,tailwind,vite,html,css,python,github,git,postgres" />
+</p>
 
 ---
 
-[![](https://visitcount.itsvg.in/api?id=JohnLouisMaker&icon=0&color=0)](https://visitcount.itsvg.in)
+## Contato
+
+<p align="left">
+  <a href="https://linkedin.com/in/joão-luis-75b18a333" target="_blank">
+    <img src="https://skillicons.dev/icons?i=linkedin&theme=dark" />
+  </a>
+  <a href="mailto:joaoluisdev9@gmail.com">
+    <img src="https://skillicons.dev/icons?i=gmail&theme=dark" />
+  </a>
+</p>
+
+---
+
+## GitHub Stats
+
+<p align="center">
+  <img 
+    height="180em" 
+    src="https://github-readme-stats-sigma-five.vercel.app/api?username=JohnLouisMaker&show_icons=true&include_all_commits=true&count_private=true&theme=dracula"
+  />
+  <img 
+    height="180em" 
+    src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=JohnLouisMaker&layout=compact&langs_count=7&theme=dracula"
+  />
+</p>
+
+<p align="center">
+  <img 
+    height="180em" 
+    src="https://github-readme-streak-stats.herokuapp.com/?user=JohnLouisMaker&theme=github_dark"
+  />
+</p>
+EOF
