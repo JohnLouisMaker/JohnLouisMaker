@@ -11,7 +11,6 @@
 <img 
   align="left"
   width="280"
-  style="margin-right:20px;"
   src="https://media0.giphy.com/media/v1.Y2lkPTc5MGI3NjExazhqZmowcGR4MHc4ZjYzdjJ6dmF2NGw0czN1a3d3cHhiZGlxOTA2cCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/bGgsc5mWoryfgKBx1u/giphy.gif"
 />
 ### Olá, eu sou o João Luis!
