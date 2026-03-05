@@ -1,4 +1,3 @@
-cat << 'EOF' > README.md
 # 💫 DEV João Luis  
 
 <p align="center">
