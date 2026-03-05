@@ -8,7 +8,7 @@
 
 ## Sobre mim
 
-<img align="left" width="280" src="https://media0.giphy.com/media/v1.Y2lkPTc5MGI3NjExazhqZmowcGR4MHc4ZjYzdjJ6dmF2NGw0czN1a3d3cHhiZGlxOTA2cCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/bGgsc5mWoryfgKBx1u/giphy.gif" />
+<img align="left" width="280" padding-left="12" src="https://media0.giphy.com/media/v1.Y2lkPTc5MGI3NjExazhqZmowcGR4MHc4ZjYzdjJ6dmF2NGw0czN1a3d3cHhiZGlxOTA2cCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/bGgsc5mWoryfgKBx1u/giphy.gif" />
 
 ### Olá, eu sou o João Luis!
 
@@ -47,11 +47,11 @@ Formado pelo programa **Geração Tech Full Stack**
 <p align="center">
   <img 
     height="180em" 
-    src="https://github-readme-stats-sigma-five.vercel.app/api?username=JohnLouisMaker&show_icons=true&include_all_commits=true&count_private=true&theme=dracula"
+    src="https://github-readme-stats-sigma-five.vercel.app/api?username=JohnLouisMaker&show_icons=true&include_all_commits=true&count_private=true&theme=github_dark"
   />
   <img 
     height="180em" 
-    src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=JohnLouisMaker&layout=compact&langs_count=7&theme=dracula"
+    src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=JohnLouisMaker&layout=compact&langs_count=7&theme=github_dark"
   />
 </p>
 
