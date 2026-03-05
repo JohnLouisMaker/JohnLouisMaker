@@ -27,7 +27,7 @@ Formado pelo programa **Geração Tech Full Stack**
 ## Stack / Skills
 
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=react,typescript,javascript,python,tailwind,vite,html,css,github,git,postgres" />
+  <img src="https://skillicons.dev/icons?i=react,typescript,javascript,python,fastapi,tailwind,html,css,vite,github,git,postgres" />
 </p>
 
 ---
