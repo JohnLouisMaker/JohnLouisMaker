@@ -1,23 +1,43 @@
+# João Luis Silva Venâncio
 
-## Sobre mim
+**Desenvolvedor Web** — React · TypeScript · Python · FastAPI · PostgreSQL · APIs REST · JWT
 
-
-### João Luis Silva Venâncio!
-
-**Desenvolvedor Web** — React, TypeScript e Python  
-
-Estudante de **Análise e Desenvolvimento de Sistemas (Unifametro)**  
+Estudante de **Análise e Desenvolvimento de Sistemas** na Unifametro  
 Formado pelo programa **Geração Tech Full Stack**
 
-<br clear="left"/>
+
+- Desenvolvendo projetos full stack com React + TypeScript no frontend e Python + FastAPI no backend  
+- Aplicando boas práticas de código, autenticação segura e integração com banco de dados em projetos reais  
 
 ---
 
-## Stack / Skills
+## Stack
 
 <p align="center">
   <img src="https://skillicons.dev/icons?i=react,typescript,javascript,python,fastapi,tailwind,html,css,vite,github,git,postgres" />
 </p>
+
+
+
+---
+
+## Sobre Mim
+
+Estudante de Análise e Desenvolvimento de Sistemas (3º semestre) na Unifametro, com formação prática completa em Desenvolvimento Web Full-Stack pelo Geração Tech.  
+
+Tenho experiência hands-on construindo aplicações completas: backends robustos com FastAPI (JWT, RBAC e regras de negócio), frontends responsivos com React + TypeScript e integração com PostgreSQL.  
+
+Busco um ambiente onde possa contribuir com código real, receber feedback de desenvolvedores experientes e acelerar meu crescimento profissional.
+
+Portfólio completo: **[portfolio-dev-full-stack-joao-luis.vercel.app](https://portfolio-dev-full-stack-joao-luis.vercel.app)**
+
+---
+
+## Projetos em Destaque
+
+- **Sistema de Gestão de Pedidos** — Backend assíncrono com FastAPI, autenticação JWT, RBAC e PostgreSQL  
+- **Sistema de Gerenciamento de Biblioteca** — Projeto em equipe com padrão MVC em Python e testes de estresse (+30% de estabilidade)  
+- **Plataforma para ONG União Felina** — Interface responsiva em React + TypeScript com foco em UX e clean code
 
 ---
 
@@ -29,6 +49,12 @@ Formado pelo programa **Geração Tech Full Stack**
   </a>
   <a href="mailto:joaoluisdev9@gmail.com">
     <img src="https://skillicons.dev/icons?i=gmail&theme=dark" />
+  </a>
+  <a href="https://github.com/JohnLouisMaker" target="_blank">
+    <img src="https://skillicons.dev/icons?i=github&theme=dark" />
+  </a>
+  <a href="https://portfolio-dev-full-stack-joao-luis.vercel.app" target="_blank">
+    <img src="https://skillicons.dev/icons?i=vercel&theme=dark" />
   </a>
 </p>
 
