@@ -13,12 +13,25 @@ Formado pelo programa **Geração Tech Full Stack**
 
 ## Stack
 
-<p align="center">
-  <img src="https://skillicons.dev/icons?i=react,typescript,javascript,python,fastapi,tailwind,html,css,vite,github,git,postgres" />
+### Linguagens
+<p align="left">
+  <img src="https://skillicons.dev/icons?i=python,typescript,javascript,html,css" />
 </p>
 
+### Frameworks & Bibliotecas
+<p align="left">
+  <img src="https://skillicons.dev/icons?i=react,fastapi,tailwind" />
+</p>
 
+### Banco de Dados
+<p align="left">
+  <img src="https://skillicons.dev/icons?i=postgres" />
+</p>
 
+### Ferramentas & Setup
+<p align="left">
+  <img src="https://skillicons.dev/icons?i=vite,git,github" />
+</p>
 ---
 
 ## Sobre Mim
