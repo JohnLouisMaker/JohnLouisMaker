@@ -30,7 +30,7 @@ Formado pelo programa **Geração Tech Full Stack**
 
 ### Ferramentas & Setup
 <p align="left">
-  <img src="https://skillicons.dev/icons?i=vite,git,github" />
+  <img src="https://skillicons.dev/icons?i=vite,git,github,docker" />
 </p>
 
 ---
