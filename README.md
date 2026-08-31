@@ -5,7 +5,6 @@
 Estudante de **Análise e Desenvolvimento de Sistemas** na Unifametro  
 Formado pelo programa **Geração Tech Full Stack**
 
-
 - Desenvolvendo projetos full stack com React + TypeScript no frontend e Python + FastAPI no backend  
 - Aplicando boas práticas de código, autenticação segura e integração com banco de dados em projetos reais  
 
@@ -77,19 +76,12 @@ Portfólio completo: **[portfolio-dev-full-stack-joao-luis.vercel.app](https://p
 ## GitHub Stats
 
 <p align="center">
-  <img 
-    height="180em" 
-    src="https://github-readme-stats-sigma-five.vercel.app/api?username=JohnLouisMaker&show_icons=true&include_all_commits=true&count_private=true&theme=gruvbox"
-  />
-  <img 
-    height="180em" 
-    src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=JohnLouisMaker&layout=compact&langs_count=7&theme=gruvbox"
-  />
+  <img src="./github-metrics.svg" alt="GitHub Metrics" width="100%" />
 </p>
 
 <p align="center">
   <img 
     height="180em" 
-    src="https://github-readme-streak-stats.herokuapp.com/?user=JohnLouisMaker&theme=github_dark"
+    src="https://streak-stats.demolab.com/?user=JohnLouisMaker&theme=github_dark"
   />
 </p>
