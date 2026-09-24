@@ -73,15 +73,13 @@ Portfólio completo: **[portfolio-dev-full-stack-joao-luis.vercel.app](https://p
 
 ---
 
-## GitHub Stats
+## 📊 GitHub Stats
 
 <p align="center">
-  <img src="./github-metrics.svg" alt="GitHub Metrics" width="100%" />
+  <img height="170em" src="https://github-stats-extended.vercel.app/api?username=JohnLouisMaker&theme=github_dark&show_icons=true&count_private=true&hide_border=true&bg_color=0d1117&include_all_commits=true" />
+  <img height="170em" src="https://github-stats-extended.vercel.app/api/top-langs/?username=JohnLouisMaker&theme=github_dark&layout=compact&langs_count=8&hide_border=true&bg_color=0d1117" />
 </p>
 
 <p align="center">
-  <img 
-    height="180em" 
-    src="https://streak-stats.demolab.com/?user=JohnLouisMaker&theme=github_dark"
-  />
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=JohnLouisMaker&theme=github-dark&bg_color=0d1117&hide_border=true&area=true&custom_title=Contribui%C3%A7%C3%B5es%20%C3%BAltimos%2031%20dias" width="100%" />
 </p>
