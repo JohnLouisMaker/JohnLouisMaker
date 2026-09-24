@@ -1,16 +1,17 @@
 # João Luis Silva Venâncio
 
-**Desenvolvedor Web** — React · TypeScript · Python · FastAPI · PostgreSQL · APIs REST · JWT
+**Desenvolvedor Web Full-Stack** — React · TypeScript · Python · FastAPI · PostgreSQL · APIs REST · JWT
 
-Estudante de **Análise e Desenvolvimento de Sistemas** na Unifametro  
-Formado pelo programa **Geração Tech Full Stack**
+Estudante de **Análise e Desenvolvimento de Sistemas** na Unifametro | Estagiário de T.I. na Secran Group  
+Formado pelo programa **Geração Tech Full Stack** (IEL Ceará / Digital College)
 
-- Desenvolvendo projetos full stack com React + TypeScript no frontend e Python + FastAPI no backend  
-- Aplicando boas práticas de código, autenticação segura e integração com banco de dados em projetos reais  
+- Desenvolvendo aplicações web completas com React + TypeScript no frontend e Python + FastAPI no backend  
+- Aplicando boas práticas de arquitetura de software, autenticação segura (JWT, RBAC) e integração robusta com PostgreSQL  
+- Foco na criação de interfaces responsivas, performance e arquiteturas escaláveis de API  
 
 ---
 
-## Stack
+## Stack Tecnológica
 
 ### Linguagens
 <p align="left">
@@ -29,35 +30,43 @@ Formado pelo programa **Geração Tech Full Stack**
 
 ### Ferramentas & Setup
 <p align="left">
-  <img src="https://skillicons.dev/icons?i=vite,git,github,docker" />
+  <img src="https://skillicons.dev/icons?i=vite,git,github" />
 </p>
 
 ---
 
 ## Sobre Mim
 
-Estudante de Análise e Desenvolvimento de Sistemas (3º semestre) na Unifametro, com formação prática completa em Desenvolvimento Web Full-Stack pelo Geração Tech.  
+Estudante de Análise e Desenvolvimento de Sistemas (4º semestre) na Unifametro e estagiário de T.I. na Secran Group. Possuo formação prática completa em Desenvolvimento Web Full-Stack pelo Geração Tech.
 
-Tenho experiência hands-on construindo aplicações completas: backends robustos com FastAPI (JWT, RBAC e regras de negócio), frontends responsivos com React + TypeScript e integração com PostgreSQL.  
+Tenho experiência hands-on construindo aplicações web completas: backends robustos com FastAPI (tratando autenticação JWT, controle de acesso RBAC e regras de negócio complexas), frontends dinâmicos em React + TypeScript e integração relacional com PostgreSQL. 
 
-Busco um ambiente onde possa contribuir com código real, receber feedback de desenvolvedores experientes e acelerar meu crescimento profissional.
+Busco um ambiente voltado para engenharia web onde eu possa contribuir com código escalável, aprender com desenvolvedores seniores e acelerar minha evolução profissional.
 
-Portfólio completo: **[portfolio-dev-full-stack-joao-luis.vercel.app](https://portfolio-dev-full-stack-joao-luis.vercel.app)**
+🌐 **Portfólio completo:** [portfolio-dev-full-stack-joao-luis.vercel.app](https://portfolio-dev-full-stack-joao-luis.vercel.app)
 
 ---
 
 ## Projetos em Destaque
 
-- **Sistema de Gestão de Pedidos** — Backend assíncrono com FastAPI, autenticação JWT, RBAC e PostgreSQL  
-- **Sistema de Gerenciamento de Biblioteca** — Projeto em equipe com padrão MVC em Python e testes de estresse (+30% de estabilidade)  
-- **Plataforma para ONG União Felina** — Interface responsiva em React + TypeScript com foco em UX e clean code
+- **Sistema de Gestão de Pedidos (Deliver)** — Backend assíncrono desenvolvido com Python e FastAPI, utilizando SQLAlchemy, autenticação JWT, controle de acesso (RBAC) e PostgreSQL, acoplado a um frontend moderno em React + TypeScript.
+- **FortalDados** — Aplicação web full stack integrando React, Vite, Tailwind, Leaflet (mapas interativos e visualização geoespacial) com backend em FastAPI e inteligência artificial via LLMs (Groq / Llama 3).
+- **Plataforma para ONG União Felina** — Interface web responsiva desenvolvida em React + TypeScript com forte foco em componentização limpa, organização de código e experiência de usuário (UX).
 
+---
+
+## Experiência Profissional
+
+**Secran Group** — Estagiário de T.I. *(Maio/2026 – Presente)*
+- Atuação em suporte técnico corporativo, infraestrutura e gestão de chamados internos.
+- Desenvolvimento de automações e scripts de integração em Python (com uso pontual de Selenium) e painéis analíticos com Streamlit.
+- Análise estruturada de **201 tickets** de solicitações de equipamentos, gerando dados gerenciais que embasaram a decisão da diretoria para a **aquisição de 15 novos computadores, 15 monitores de 21"** e periféricos.
 ---
 
 ## Contato
 
 <p align="left">
-  <a href="https://linkedin.com/in/joão-luis-75b18a333" target="_blank">
+  <a href="https://linkedin.com/in/joaoluissdev" target="_blank">
     <img src="https://skillicons.dev/icons?i=linkedin&theme=dark" />
   </a>
   <a href="mailto:joaoluisdev9@gmail.com">
@@ -74,11 +83,6 @@ Portfólio completo: **[portfolio-dev-full-stack-joao-luis.vercel.app](https://p
 ---
 
 ## GitHub Stats
-
-<p align="center">
-  <img src="./github-metrics.svg" alt="GitHub Metrics" width="100%" />
-</p>
-
 <p align="center">
   <img 
     height="180em" 
