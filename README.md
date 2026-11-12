@@ -1,91 +1,195 @@
-# João Luis Silva Venâncio
+<h1 align="center">Olá, eu sou João Luis 👋</h1>
 
-**Desenvolvedor Web Full-Stack** — React · TypeScript · Python · FastAPI · PostgreSQL · APIs REST · JWT
+<h3 align="center">
+  Desenvolvedor Web Full Stack | React • TypeScript • Python • FastAPI
+</h3>
 
-Estudante de **Análise e Desenvolvimento de Sistemas** na Unifametro | Estagiário de T.I. na Secran Group  
-Formado pelo programa **Geração Tech Full Stack** (IEL Ceará / Digital College)
-
-- Desenvolvendo aplicações web completas com React + TypeScript no frontend e Python + FastAPI no backend  
-- Aplicando boas práticas de arquitetura de software, autenticação segura (JWT, RBAC) e integração robusta com PostgreSQL  
-- Foco na criação de interfaces responsivas, performance e arquiteturas escaláveis de API  
-
----
-
-## Stack Tecnológica
-
-### Linguagens
-<p align="left">
-  <img src="https://skillicons.dev/icons?i=python,typescript,javascript,html,css" />
+<p align="center">
+  Estudante de Análise e Desenvolvimento de Sistemas na Unifametro,
+  com experiência em desenvolvimento web, automação de processos
+  e suporte técnico.
 </p>
 
-### Frameworks & Bibliotecas
-<p align="left">
-  <img src="https://skillicons.dev/icons?i=react,fastapi,tailwind" />
-</p>
-
-### Banco de Dados
-<p align="left">
-  <img src="https://skillicons.dev/icons?i=postgres" />
-</p>
-
-### Ferramentas & Setup
-<p align="left">
-  <img src="https://skillicons.dev/icons?i=vite,git,github" />
+<p align="center">
+  <a href="https://portfolio-dev-full-stack-joao-luis.vercel.app">
+    <img src="https://img.shields.io/badge/Portfólio-Visitar-000000?style=for-the-badge&logo=cloudflare&logoColor=orange" />
+  </a>
+  <a href="https://linkedin.com/in/joaoluissdev">
+    <img src="https://img.shields.io/badge/LinkedIn-Conectar-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" />
+  </a>
+  <a href="mailto:joaoluisdev9@gmail.com">
+    <img src="https://img.shields.io/badge/Email-Contato-EA4335?style=for-the-badge&logo=gmail&logoColor=white" />
+  </a>
 </p>
 
 ---
 
-## Sobre Mim
+## Sobre mim
 
-Estudante de Análise e Desenvolvimento de Sistemas (4º semestre) na Unifametro e estagiário de T.I. na Secran Group. Possuo formação prática completa em Desenvolvimento Web Full-Stack pelo Geração Tech.
+Sou estudante de **Análise e Desenvolvimento de Sistemas** na Unifametro e desenvolvedor Web Full Stack, com foco na construção de aplicações web e soluções que resolvem problemas reais.
 
-Tenho experiência hands-on construindo aplicações web completas: backends robustos com FastAPI (tratando autenticação JWT, controle de acesso RBAC e regras de negócio complexas), frontends dinâmicos em React + TypeScript e integração relacional com PostgreSQL. 
+Minha experiência envolve desenvolvimento de interfaces com React e TypeScript, construção de APIs com Python e FastAPI, integração com bancos de dados e automação de processos utilizando Python.
 
-Busco um ambiente voltado para engenharia web onde eu possa contribuir com código escalável, aprender com desenvolvedores seniores e acelerar minha evolução profissional.
+Também tive experiência profissional em suporte técnico e infraestrutura de TI, trabalhando com gerenciamento de acessos, manutenção de equipamentos, redes e sistemas corporativos.
 
-🌐 **Portfólio completo:** [portfolio-dev-full-stack-joao-luis.vercel.app](https://portfolio-dev-full-stack-joao-luis.vercel.app)
+Tenho interesse em aprofundar meus conhecimentos em arquitetura de software, automação e inteligência artificial aplicada ao desenvolvimento.
+
+## Tecnologias e ferramentas
+
+### Frontend
+
+<p>
+  <img src="https://skillicons.dev/icons?i=html,css,js,ts,react,tailwind,vite" />
+</p>
+
+- React.js
+- TypeScript
+- JavaScript
+- HTML5 e CSS3
+- Tailwind CSS
+- Vite
+
+### Backend e banco de dados
+
+<p>
+  <img src="https://skillicons.dev/icons?i=python,fastapi,postgres,supabase" />
+</p>
+
+- Python
+- FastAPI
+- APIs REST
+- PostgreSQL
+- Supabase
+- SQLAlchemy
+
+### Dados e automação
+
+<p>
+  <img src="https://skillicons.dev/icons?i=selenium" />
+</p>
+
+- Pandas
+- Selenium
+- Playwright (uso inicial)
+- Automação de processos e extração de dados
+
+### Ferramentas e infraestrutura
+
+<p>
+  <img src="https://skillicons.dev/icons?i=git,github,vscode,linux" />
+</p>
+
+- Git e GitHub
+- VS Code
+- Vercel
+- Linux (conhecimentos básicos)
+- Active Directory
+- OpenVPN
+- pfSense
+- Zimbra
+
+### Inteligência artificial
+
+- Integração de LLMs por API em aplicações.
+- OpenAI API.
+- Configuração e personalização de agentes com Hermes Agent.
+- OpenRouter e DeepSeek como ferramentas de apoio ao desenvolvimento.
+- OpenCode como agente de código no terminal.
 
 ---
 
-## Projetos em Destaque
+## Experiência profissional
 
-- **Sistema de Gestão de Pedidos (Deliver)** — Backend assíncrono desenvolvido com Python e FastAPI, utilizando SQLAlchemy, autenticação JWT, controle de acesso (RBAC) e PostgreSQL, acoplado a um frontend moderno em React + TypeScript.
-- **FortalDados** — Aplicação web full stack integrando React, Vite, Tailwind, Leaflet (mapas interativos e visualização geoespacial) com backend em FastAPI e inteligência artificial via LLMs (Groq / Llama 3).
-- **Plataforma para ONG União Felina** — Interface web responsiva desenvolvida em React + TypeScript com forte foco em componentização limpa, organização de código e experiência de usuário (UX).
+### Secran Group — Estagiário de TI
+**Suporte Técnico e Automação | Maio/2026 – Novembro/2026**
+
+Atuação em suporte técnico, infraestrutura e automação de processos internos.
+
+**Suporte e infraestrutura**
+- Gerenciamento de usuários, permissões e senhas no Active Directory.
+- Suporte a acessos remotos utilizando OpenVPN e pfSense.
+- Diagnóstico e manutenção de computadores.
+- Formatação e instalação de sistemas operacionais.
+- Instalação e configuração de softwares corporativos.
+- Suporte a sistemas internos e e-mail corporativo Zimbra.
+- Diagnóstico básico de conectividade e infraestrutura de rede.
+
+**Automação e análise de dados**
+- Desenvolvimento de automação em Python para extração de informações de tickets de um sistema corporativo.
+- Utilização de Selenium e, posteriormente, Playwright para automatizar a navegação e coleta de dados.
+- Estruturação e processamento dos dados utilizando Pandas.
+- Desenvolvimento de dashboard interativo com Streamlit e Plotly.
+- Organização de indicadores para facilitar a análise de solicitações de equipamentos.
+
+**Resultado em destaque**
+
+A automação processou aproximadamente 201 tickets em uma primeira execução. Os dados estruturados e o dashboard desenvolvido subsidiaram análises gerenciais que contribuíram para uma decisão de aquisição de 15 computadores, 15 monitores de 21 polegadas e periféricos.
 
 ---
 
-## Experiência Profissional
+## Projetos
 
-**Secran Group** — Estagiário de T.I. *(Maio/2026 – Presente)*
-- Atuação em suporte técnico corporativo, infraestrutura e gestão de chamados internos.
-- Desenvolvimento de automações e scripts de integração em Python (com uso pontual de Selenium) e painéis analíticos com Streamlit.
-- Análise estruturada de **201 tickets** de solicitações de equipamentos, gerando dados gerenciais que embasaram a decisão da diretoria para a **aquisição de 15 novos computadores, 15 monitores de 21"** e periféricos.
+### 1. Menuu Deliver — Sistema de pedidos
+Aplicação Full Stack com catálogo, carrinho, autenticação e gerenciamento de pedidos.
+
+**Stack:** React, TypeScript, Python, FastAPI, SQLAlchemy e PostgreSQL.
+
+[Frontend](https://github.com/JohnLouisMaker/deliver-frontend) | [Backend](https://github.com/JohnLouisMaker/deliver-backend)
+
+### 2. FortalDados — Dados geoespaciais
+Projeto de visualização de dados de mobilidade urbana de Fortaleza, com processamento de planilhas, mapas interativos e chatbot com IA.
+
+**Stack:** React, TypeScript, Python, FastAPI, Pandas, GeoPandas, Leaflet e OpenAI API.
+
+### 3. ONG União Felina — Site institucional
+Projeto acadêmico em equipe para uma ONG de proteção animal, com foco na estruturação e integração do frontend.
+
+**Stack:** React, TypeScript e Tailwind CSS.
+
+### 4. Cineza — Plataforma de filmes
+Aplicação web para consulta e exibição de informações sobre filmes por meio de API externa.
+
+**Stack:** React, JavaScript, Tailwind CSS e TMDb API.
+
+[Repositório](https://github.com/JohnLouisMaker/cineza)
+
+---
+
+## Formação acadêmica
+
+**Análise e Desenvolvimento de Sistemas**  
+Centro Universitário FAMETRO — Unifametro  
+Fev/2025 – Jun/2027 | Em andamento
+
+**Engenharia de Software 4.0 — FullCycle / Geração Tech**  
+IEL Ceará | Em andamento
+
+## Cursos e capacitações
+
+- Desenvolvimento Web Full-Stack 2.0 — Geração Tech / IEL Ceará e Digital College (192h).
+- Introdução à Programação — Fundação Bradesco.
+- Curso Básico de Redes — Cisco Networking Academy.
+- Introdução à Cibersegurança — Cisco Networking Academy.
+
 ---
 
 ## Contato
 
 <p align="left">
-  <a href="https://linkedin.com/in/joaoluissdev" target="_blank">
-    <img src="https://skillicons.dev/icons?i=linkedin&theme=dark" />
-  </a>
   <a href="mailto:joaoluisdev9@gmail.com">
-    <img src="https://skillicons.dev/icons?i=gmail&theme=dark" />
+    <img src="https://img.shields.io/badge/Email-joaoluisdev9%40gmail.com-red?style=flat-square&logo=gmail&logoColor=white" />
   </a>
-  <a href="https://github.com/JohnLouisMaker" target="_blank">
-    <img src="https://skillicons.dev/icons?i=github&theme=dark" />
+  <a href="https://linkedin.com/in/joaoluissdev">
+    <img src="https://img.shields.io/badge/LinkedIn-João%20Luis-blue?style=flat-square&logo=linkedin&logoColor=white" />
   </a>
-  <a href="https://portfolio-dev-full-stack-joao-luis.vercel.app" target="_blank">
-    <img src="https://skillicons.dev/icons?i=vercel&theme=dark" />
+  <a href="https://portfolio-dev-full-stack-joao-luis.vercel.app">
+    <img src="https://img.shields.io/badge/Portfólio-Acessar-black?style=flat-square&logo=vercel&logoColor=white" />
+  </a>
+  <a href="https://github.com/JohnLouisMaker">
+    <img src="https://img.shields.io/badge/GitHub-JohnLouisMaker-181717?style=flat-square&logo=github&logoColor=white" />
   </a>
 </p>
 
----
-
-## GitHub Stats
 <p align="center">
-  <img 
-    height="180em" 
-    src="https://streak-stats.demolab.com/?user=JohnLouisMaker&theme=github_dark"
-  />
+  <i>Transformando conhecimento em soluções, uma linha de código por vez.</i>
 </p>
