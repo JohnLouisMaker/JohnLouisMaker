@@ -10,17 +10,19 @@
   e suporte técnico.
 </p>
 
+
 <p align="center">
-  <a href="https://portfolio-dev-full-stack-joao-luis.vercel.app">
-    <img src="https://img.shields.io/badge/Portfólio-Visitar-000000?style=for-the-badge&logo=cloudflare&logoColor=orange" />
+  <a href="https://joaoluis.pages.dev">
+    <img src="https://img.shields.io/badge/Portf%C3%B3lio-Visitar-000000?style=for-the-badge&logo=cloudflare&logoColor=orange" alt="Portfólio" />
   </a>
   <a href="https://linkedin.com/in/joaoluissdev">
-    <img src="https://img.shields.io/badge/LinkedIn-Conectar-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" />
+    <img src="https://img.shields.io/badge/LinkedIn-Conectar-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
   </a>
   <a href="mailto:joaoluisdev9@gmail.com">
-    <img src="https://img.shields.io/badge/Email-Contato-EA4335?style=for-the-badge&logo=gmail&logoColor=white" />
+    <img src="https://img.shields.io/badge/Email-Contato-EA4335?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" />
   </a>
 </p>
+
 
 ---
 
